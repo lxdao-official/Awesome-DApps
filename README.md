@@ -20,26 +20,9 @@ This repo aims to highlight the most interesting, creative, and mission-aligned 
 
 ---
 
-## 📘 Featured DApps
+## 📘 DApps
 
-### 1. [Aave](https://aave.com)
-Permissionless lending protocol—the largest ETH-native. Originally launched as ETHLend by Stani Kulechov. Hosts tens of billions in TVL.
-
-### 2. [Fileverse](https://fileverse.io)
-Decentralized collaboration platform (docs, file sharing, publishing) built on IPFS and smart contracts, end-to-end encrypted.
-
-### 3. [Polymarket](https://polymarket.com)
-Prediction market platform for betting on future events. Hit #1 on the App Store with ~$9B trading volume in the past year.
-
-### 4. [Zora](https://zora.co)
-Social-first NFT platform where creators publish and earn. Over 160K creators have monetized their content.
-
-### 5. [0xSplits](https://0xsplits.xyz)
-Open-source on-chain revenue sharing infrastructure. Zero fees, audited, permissionless splits.
-
-...
-
-👉 View full list in [📄[ DApps.md](https://github.com/MRzzz-cyber/Awesome-Dapps/blob/main/DApps.md)]
+👉 View full DApps list in [📄[ DApps.md](https://github.com/MRzzz-cyber/Awesome-Dapps/blob/main/DApps.md)]
 
 ---
 
