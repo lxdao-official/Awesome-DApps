@@ -32,6 +32,6 @@ Want to add a DApp to this list? Contributions are welcome!
 
 Please **open a Pull Request (PR)** with the following format:
 
-This template is recommended: [📄[Template](https://github.com/lxdao-official/Awesome-DApps/blob/main/Template.md)
+This template is recommended: [📄[Template](https://github.com/lxdao-official/Awesome-DApps/blob/main/Template.md)]
 
 One-sentence description of the project, ideally focusing on what makes it unique, decentralized, or impactful.
