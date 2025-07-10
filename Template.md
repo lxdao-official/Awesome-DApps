@@ -35,13 +35,13 @@
 
 4.**Ecosystem (choose one)**:
 
-  ```plaintext
-  - Ethereum L1
-  - Ethereum L2 (Base, Arbitrum, Optimism, Starknet, zkSync, etc.)
-  - Polygon
-  - Solana
-  - Multi-chain
-  - Other (specify)
+   ```plaintext
+   - Ethereum L1
+   - Ethereum L2 (Base, Arbitrum, Optimism, Starknet, zkSync, etc.)
+   - Polygon
+   - Solana
+   - Multi-chain
+   - Other (specify)
 
 5. **Link**:
 
