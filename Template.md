@@ -24,17 +24,18 @@
 
 3. **Description**:
 
-Keep to 1 sentence (15-25 words)
+```plaintext
+ - Keep to 1 sentence (15-25 words)
 
-Highlight unique decentralized aspects
+ - Highlight unique decentralized aspects
 
-Include key metrics if available (e.g., "Serves 1M+ users")
+ - Include key metrics if available (e.g., "Serves 1M+ users")
 
-Example: "Leading DEX with $100B+ lifetime volume"
+ - Example: "Leading DEX with $100B+ lifetime volume"
 
 4.**Ecosystem (choose one)**:
 
-plaintext
+```plaintext
 - Ethereum L1
 - Ethereum L2 (Base, Arbitrum, Optimism, Starknet, zkSync, etc.)
 - Polygon
