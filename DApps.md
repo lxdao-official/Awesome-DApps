@@ -62,4 +62,4 @@
 | **GMX** | Lending & Finance | Spot/perpetual trading with 100x leverage | Arbitrum | [🌐](https://gmx.io) |
 
 
-Ongoing update (2025/07/10)
+Ongoing update (2025/07/11)
