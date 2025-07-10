@@ -9,7 +9,7 @@ A curated list of interesting and impactful decentralized applications (DApps) b
 
 ## 🚀 Why this list?
 
-In the Ethereum ecosystem, open-source DApps are critical infrastructure—from wallets and protocols to creative tools and governance experiments.  
+In the Web3 ecosystem, open-source DApps are critical infrastructure—from wallets and protocols to creative tools and governance experiments.  
 However, many of the most exciting projects get buried in technical noise or are hard to discover.
 
 This repo aims to highlight the most interesting, creative, and mission-aligned DApps—especially those with:
