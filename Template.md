@@ -33,7 +33,7 @@
 
    - Example: "Leading DEX with $100B+ lifetime volume"
 
-4.**Ecosystem (choose one)**:
+4. **Ecosystem (choose one)**:
 
    ```plaintext
    - Ethereum L1
