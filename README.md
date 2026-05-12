@@ -104,6 +104,7 @@ and most importantly, find the beauty of the world computer!
 | **Safe**          | Multi-sig wallet for asset security                 | Multi-chain | <https://safe.global>       |
 | **LayerZero**     | Omnichain interoperability protocol                 | Multi-chain | <https://layerzero.network> |
 | **0xSplits**      | On-chain revenue sharing infrastructure (zero fees) | Ethereum L1 | <https://0xsplits.xyz>      |
+| **Base Pay Desk** | Independent Base ETH payment-link checkout with transparent fee math and accountless merchant intake | Base        | <https://oskarasi.github.io/base-pay-desk-site/> |
 | **0xSequence**    | Full-stack platform for web3 games/apps             | Multi-chain | <https://sequence.xyz>      |
 | **Hop Protocol**  | Layer-2 bridge for cross-rollup transfers           | Ethereum L2 | <https://hop.exchange>      |
 | **Ambire Wallet** | Smart EIP-7702 wallet with gas abstraction          | Multi-chain | <https://www.ambire.com>    |
