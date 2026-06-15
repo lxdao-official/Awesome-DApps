@@ -44,6 +44,7 @@ and most importantly, find the beauty of the world computer!
 | **GMX**           | Spot/perpetual trading with 100x leverage                          | Arbitrum    | <https://gmx.io>               |
 | **Matcha**        | DEX aggregator routing across 130+ sources                         | Ethereum L1 | <https://matcha.xyz>           |
 | **PoolTogether**  | No-loss prize-linked savings protocol                              | Ethereum L1 | <https://pooltogether.com>     |
+| **Block Lottos**  | On-chain lottery and ad platform with Polygon and Base games, public APIs, and user-signed wallet transactions | Multi-chain | <https://blocklottos.com>      |
 | **Hyperdrive**    | Fixed-yield AMM for non-lockup products                            | Ethereum L1 | <https://www.hyperdrive.xyz>   |
 | **Teller**        | Time-bound borrowing with crypto collateral                        | Ethereum L1 | <https://useteller.com>        |
 | **Polymarket**    | Prediction market platform ($9B+ annual volume)                    | Polygon     | <https://polymarket.com>       |
