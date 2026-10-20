@@ -48,6 +48,7 @@ and most importantly, find the beauty of the world computer!
 | **Teller**        | Time-bound borrowing with crypto collateral                        | Ethereum L1 | <https://useteller.com>        |
 | **Polymarket**    | Prediction market platform ($9B+ annual volume)                    | Polygon     | <https://polymarket.com>       |
 | **TrueMarkets**   | Decentralized prediction market on Base                            | Base        | <https://truemark>             |
+| **Melbo**         | Prediction markets for real-world events                           | Polygon     | <https://melbo.io>             |
 
 ### 🎨 NFTs & Creator Economy
 
